@@ -1,0 +1,21 @@
+.eael-progressbar.eael-progressbar-line {
+  border-radius: 30px;
+}
+.eael-progressbar-line-fill {
+  border-radius: 30px;
+}
+.mfp-bg.mfp-ready {
+  z-index: 99999;
+}
+.mfp-wrap.mfp-gallery.mfp-close-btn-in.mfp-auto-cursor.mfp-ready {
+  z-index: 999999;
+}
+#wpforms-submit-876{
+	height: 50px;
+}
+#wpforms-submit-876:hover {
+  background: transparent;
+}
+a:hover{
+	text-decoration: none;
+}
